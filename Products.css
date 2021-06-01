@@ -1,0 +1,31 @@
+div#main article {
+  width: 50%;
+  float: left;
+  padding-top: 40px;
+}
+div#main section {
+  padding-top: 30px;
+  font-weight: bold;
+  font-size: 1.3em;
+
+}
+article#names section {
+  text-align: right;
+  margin-right: 15%;
+}
+div#main {
+  height: 800px;
+  background-color: rgb(255, 206, 206);
+}
+div#main header {
+  font-weight: bold;
+  font-size: 1.69em;
+}
+article#prices section:not(:first-of-type) {
+  transform: translateY(34px);
+  margin-left: 15%;
+}
+article#prices section:first-of-type {
+  margin-left: 15%;
+  transform: translateY(17px);
+}

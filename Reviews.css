@@ -1,0 +1,26 @@
+div#main {
+  padding-top: 100px;
+  height: auto;
+  margin-bottom: 5%;
+}
+div#main blockquote:first-child {
+  width: 90%;
+  margin-left: 10%;
+  border-left: 4px solid rgba(80, 80, 80, 0.8);
+}
+div#main blockquote:not(:first-child) {
+  width: 90%;
+  margin-left: 10%;
+  border-left: 4px solid rgba(80, 80, 80, 0.8);
+  margin-top: 120px;
+}
+div#main blockquote p {
+  font-size: 1.5em;
+  color: rgb(50, 50, 50);
+}
+div#main blockquote footer {
+  font-style: italic;
+  font-size: 1.2em;
+  color: rgb(80, 80, 80);
+  border-top: inline 2px solid rgb(255,255,255);
+}

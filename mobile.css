@@ -1,0 +1,32 @@
+@media only screen and (max-width: 600px) {
+    div#mainLinks li a {
+    font-size: 1.1em;
+    }
+    div#mainLinks li a:hover {
+    font-size: 1em;
+}
+ div#Reviews li a {
+     font-size: 1.3em;
+ }
+div#Reviews li  {
+    width: 40%;
+}
+div#survey li {
+  width: 40%;
+}
+div#survey li a {
+  font-size: 1.3em;
+}
+div#Story {
+  width: 80%;
+}
+div#Story p{
+  font-size: 1em;
+}
+div#example {
+  width: 80%;
+}
+div#example p{
+  font-size: 1em;
+}
+}

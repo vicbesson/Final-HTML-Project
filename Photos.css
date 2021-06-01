@@ -1,0 +1,68 @@
+div.colours {
+  height: 1400px;
+}
+div.colours ul {
+margin-left: 20%;
+}
+div.colours header {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+}
+div.colours li {
+width: 30%;
+float: left;
+margin: 5%;
+}
+div.colours li img{
+  width: 80%;
+
+}
+div.styles {
+padding-top: 20px;
+height: 1400px;
+}
+div.styles ul {
+  margin-left: 20%;
+}
+div.styles header {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+}
+div.styles li{
+width: 30%;
+float: left;
+margin: 5%;
+}
+div.styles li img{
+  width: 80%;
+
+}
+div.eyebrowsandlashes {
+height: 600px;
+
+}
+div.eyebrowsandlashes header {
+  text-align: center;
+  font-size: 2em;
+  padding-bottom: 50px;
+  font-weight: bold;
+}
+div.eyebrowsandlashes ul {
+  padding-top: 50px;
+width: 90%;
+margin-left: 5%;
+}
+div.eyebrowsandlashes li img{
+  width: 80%;
+
+}
+div.eyebrowsandlashes li{
+width: 25%;
+float: left;
+}
+div#main img{
+  display: block;
+  box-shadow: 5px 10px #666666;
+}

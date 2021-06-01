@@ -1,0 +1,11 @@
+div#main section iframe {
+  margin: auto;
+}
+div#main section{
+  width: 80%;
+  margin: auto;
+  height: 90%;
+}
+div#main {
+  height: 800px;
+}
